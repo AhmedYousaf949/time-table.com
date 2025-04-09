@@ -1,7 +1,5 @@
 body {
     background-color: #1f705f;
-    background-image: url('images/road.jpg');
-    background-repeat: no-repeat;
     background-size: cover;
     font-family: Arial, sans-serif;
     text-align: center;
@@ -56,3 +54,4 @@ tr.highlight:hover {
     color: #ff0000;
     font-size: 22px;
 }
+
